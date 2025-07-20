@@ -21,5 +21,5 @@ jobs:
           pip install -r requirements.txt
           playwright install chromium
 
-      - name: Run sum script (yourmail)
+      - name: Run sum script 23f2001426@ds.study.iitm.ac.in
         run: python 5.py
